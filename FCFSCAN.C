@@ -9,7 +9,7 @@ int main()
  scanf("%d",&n);
  printf("Enter position of head\t");
  scanf("%d",&disk);
- printf("enter elements of disk queue\n");
+ printf("Enter elements of disk queue\n");
  for(i=0;i<n;i++)
  {
  scanf("%d",&ar[i]);
