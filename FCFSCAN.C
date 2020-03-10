@@ -25,7 +25,7 @@ int main()
  {
  printf("\n%d",tm[i]);
  }   */
- printf("\nmovement of total cylinders %d",sum);
+ printf("\n Movement of total cylinders %d",sum);
  getch();
  return 0;
 }
