@@ -4,7 +4,7 @@ int main()
             int queue[20],n,head,i,j,k,seek=0,max,diff,temp,queue1[20],queue2[20],
                         temp1=0,temp2=0;
             float avg;
-            printf("Enter the max range of disk\n");
+            printf("Enter the Max Range of disk\n");
             scanf("%d",&max);
             printf("Enter the initial head position\n");
             scanf("%d",&head);
